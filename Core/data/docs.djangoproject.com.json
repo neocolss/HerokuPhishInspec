@@ -1,0 +1,110 @@
+{"WhoisRecord": {
+  "createdDate": "2005-04-04T19:49:07Z",
+  "updatedDate": "2017-03-23T22:03:43Z",
+  "expiresDate": "2018-04-04T19:49:07Z",
+  "registrant": {
+    "name": "Treasurer DSF",
+    "organization": "Django Software Foundation",
+    "street1": "PO Box 4120 #39875",
+    "city": "Portland",
+    "state": "Oregon",
+    "postalCode": "97208",
+    "country": "UNITED STATES",
+    "email": "b51eb9e400906bdbaf75562b991ebe15-5326191@contact.gandi.net",
+    "telephone": "14152524343",
+    "rawText": "Registrant Name: Treasurer DSF\u000aRegistrant Organization: Django Software Foundation\u000aRegistrant Street: PO Box 4120 #39875\u000aRegistrant City: Portland\u000aRegistrant State/Province: Oregon\u000aRegistrant Postal Code: 97208\u000aRegistrant Country: US\u000aRegistrant Phone: +1.4152524343\u000aRegistrant Email: b51eb9e400906bdbaf75562b991ebe15-5326191@contact.gandi.net"
+  },
+  "administrativeContact": {
+    "name": "Ops DSF",
+    "organization": "Django Software Foundation",
+    "street1": "PO Box 4120 #39875",
+    "city": "Portland",
+    "state": "Oregon",
+    "postalCode": "97208",
+    "country": "UNITED STATES",
+    "email": "75e1b67cb3aefe8424df208681a1e4f4-5326185@contact.gandi.net",
+    "telephone": "14152524343",
+    "rawText": "Admin Name: Ops DSF\u000aAdmin Organization: Django Software Foundation\u000aAdmin Street: PO Box 4120 #39875\u000aAdmin City: Portland\u000aAdmin State/Province: Oregon\u000aAdmin Postal Code: 97208\u000aAdmin Country: US\u000aAdmin Phone: +1.4152524343\u000aAdmin Email: 75e1b67cb3aefe8424df208681a1e4f4-5326185@contact.gandi.net"
+  },
+  "technicalContact": {
+    "name": "Holovaty Adrian",
+    "street1": "426 W. Belmont Apt. 903",
+    "city": "Chicago",
+    "state": "Illinois",
+    "postalCode": "60657",
+    "country": "UNITED STATES",
+    "email": "0b61987e78df1db98ba90ee5fef31ef0-1137963@contact.gandi.net",
+    "telephone": "17855506051",
+    "rawText": "Tech Name: Holovaty Adrian\u000aTech Street: 426 W. Belmont Apt. 903\u000aTech City: Chicago\u000aTech State/Province: Illinois\u000aTech Postal Code: 60657\u000aTech Country: US\u000aTech Phone: +1.7855506051\u000aTech Email: 0b61987e78df1db98ba90ee5fef31ef0-1137963@contact.gandi.net"
+  },
+  "domainName": "djangoproject.com",
+  "nameServers": {
+    "rawText": "DNS1.STABLETRANSIT.COM\u000aDNS2.STABLETRANSIT.COM\u000a",
+    "hostNames": [
+      "DNS1.STABLETRANSIT.COM",
+      "DNS2.STABLETRANSIT.COM"
+    ],
+    "ips": [
+    ]
+  },
+  "status": "clientTransferProhibited",
+  "rawText": "Domain Name: djangoproject.com\u000aRegistry Domain ID: 149399693_DOMAIN_COM-VRSN\u000aRegistrar WHOIS Server: whois.gandi.net\u000aRegistrar URL: http://www.gandi.net\u000aUpdated Date: 2017-03-23T22:03:43Z\u000aCreation Date: 2005-04-04T19:49:07Z\u000aRegistrar Registration Expiration Date: 2018-04-04T19:49:07Z\u000aRegistrar: GANDI SAS\u000aRegistrar IANA ID: 81\u000aRegistrar Abuse Contact Email: abuse@support.gandi.net\u000aRegistrar Abuse Contact Phone: +33.170377661\u000aReseller: \u000aDomain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited\u000aDomain Status: \u000aDomain Status: \u000aDomain Status: \u000aDomain Status: \u000aRegistry Registrant ID: \u000aRegistrant Name: Treasurer DSF\u000aRegistrant Organization: Django Software Foundation\u000aRegistrant Street: PO Box 4120 #39875\u000aRegistrant City: Portland\u000aRegistrant State/Province: Oregon\u000aRegistrant Postal Code: 97208\u000aRegistrant Country: US\u000aRegistrant Phone: +1.4152524343\u000aRegistrant Phone Ext:\u000aRegistrant Fax: \u000aRegistrant Fax Ext:\u000aRegistrant Email: b51eb9e400906bdbaf75562b991ebe15-5326191@contact.gandi.net\u000aRegistry Admin ID: \u000aAdmin Name: Ops DSF\u000aAdmin Organization: Django Software Foundation\u000aAdmin Street: PO Box 4120 #39875\u000aAdmin City: Portland\u000aAdmin State/Province: Oregon\u000aAdmin Postal Code: 97208\u000aAdmin Country: US\u000aAdmin Phone: +1.4152524343\u000aAdmin Phone Ext:\u000aAdmin Fax: \u000aAdmin Fax Ext:\u000aAdmin Email: 75e1b67cb3aefe8424df208681a1e4f4-5326185@contact.gandi.net\u000aRegistry Tech ID: \u000aTech Name: Holovaty Adrian\u000aTech Organization: \u000aTech Street: 426 W. Belmont Apt. 903\u000aTech City: Chicago\u000aTech State/Province: Illinois\u000aTech Postal Code: 60657\u000aTech Country: US\u000aTech Phone: +1.7855506051\u000aTech Phone Ext:\u000aTech Fax: \u000aTech Fax Ext:\u000aTech Email: 0b61987e78df1db98ba90ee5fef31ef0-1137963@contact.gandi.net\u000aName Server: DNS1.STABLETRANSIT.COM\u000aName Server: DNS2.STABLETRANSIT.COM\u000aName Server: \u000aName Server: \u000aName Server: \u000aName Server: \u000aName Server: \u000aName Server: \u000aName Server: \u000aName Server: \u000aDNSSEC: Unsigned\u000aURL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/\u000a&gt;&gt;&gt; Last update of WHOIS database: 2017-12-23T00:55:37Z &lt;&lt;&lt;\u000a\u000aFor more information on Whois status codes, please visit\u000ahttps://www.icann.org/epp\u000a\u000aReseller Email: \u000aReseller URL: \u000a\u000aPersonal data access and use are governed by French law, any use for the purpose of unsolicited mass commercial advertising as well as any mass or automated inquiries (for any intent other than the registration or modification of a domain name) are strictly forbidden. Copy of whole or part of our database without Gandi's endorsement is strictly forbidden. \u000a\u000aA dispute over the ownership of a domain name may be subject to the alternate procedure established by the Registry in question or brought before the courts. \u000a\u000aFor additional information, please contact us via the following form:\u000a\u000a https://www.gandi.net/support/contacter/mail/",
+  "parseCode": 3579,
+  "header": "",
+  "strippedText": "Domain Name: djangoproject.com\u000aRegistrar WHOIS Server: whois.gandi.net\u000aRegistrar URL: http://www.gandi.net\u000aUpdated Date: 2017-03-23T22:03:43Z\u000aCreation Date: 2005-04-04T19:49:07Z\u000aRegistrar Registration Expiration Date: 2018-04-04T19:49:07Z\u000aRegistrar: GANDI SAS\u000aRegistrar IANA ID: 81\u000aRegistrar Abuse Contact Email: abuse@support.gandi.net\u000aRegistrar Abuse Contact Phone: +33.170377661\u000aDomain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited\u000aRegistrant Name: Treasurer DSF\u000aRegistrant Organization: Django Software Foundation\u000aRegistrant Street: PO Box 4120 #39875\u000aRegistrant City: Portland\u000aRegistrant State/Province: Oregon\u000aRegistrant Postal Code: 97208\u000aRegistrant Country: US\u000aRegistrant Phone: +1.4152524343\u000aRegistrant Email: b51eb9e400906bdbaf75562b991ebe15-5326191@contact.gandi.net\u000aAdmin Name: Ops DSF\u000aAdmin Organization: Django Software Foundation\u000aAdmin Street: PO Box 4120 #39875\u000aAdmin City: Portland\u000aAdmin State/Province: Oregon\u000aAdmin Postal Code: 97208\u000aAdmin Country: US\u000aAdmin Phone: +1.4152524343\u000aAdmin Email: 75e1b67cb3aefe8424df208681a1e4f4-5326185@contact.gandi.net\u000aTech Name: Holovaty Adrian\u000aTech Street: 426 W. Belmont Apt. 903\u000aTech City: Chicago\u000aTech State/Province: Illinois\u000aTech Postal Code: 60657\u000aTech Country: US\u000aTech Phone: +1.7855506051\u000aTech Email: 0b61987e78df1db98ba90ee5fef31ef0-1137963@contact.gandi.net\u000aName Server: DNS1.STABLETRANSIT.COM\u000aName Server: DNS2.STABLETRANSIT.COM\u000a",
+  "footer": "\u000a",
+  "audit": {
+    "createdDate": "2017-12-23 00:55:38.000 UTC",
+    "updatedDate": "2017-12-23 00:55:38.000 UTC"
+  },
+  "customField1Name": "RegistrarContactEmail",
+  "customField1Value": "abuse@support.gandi.net",
+  "registrarName": "GANDI SAS",
+  "registrarIANAID": "81",
+  "whoisServer": "whois.gandi.net",
+  "customField2Name": "RegistrarContactPhone",
+  "customField3Name": "RegistrarURL",
+  "customField2Value": "+33.170377661",
+  "customField3Value": "http://www.gandi.net",
+  "registryData": {
+    "createdDate": "2005-04-04T19:49:07Z",
+    "updatedDate": "2017-02-28T12:49:01Z",
+    "expiresDate": "2018-04-04T19:49:07Z",
+    "domainName": "djangoproject.com",
+    "nameServers": {
+      "rawText": "DNS1.STABLETRANSIT.COM\u000aDNS2.STABLETRANSIT.COM\u000a",
+      "hostNames": [
+        "DNS1.STABLETRANSIT.COM",
+        "DNS2.STABLETRANSIT.COM"
+      ],
+      "ips": [
+      ]
+    },
+    "status": "clientTransferProhibited",
+    "rawText": "Domain Name: DJANGOPROJECT.COM\u000a   Registry Domain ID: 149399693_DOMAIN_COM-VRSN\u000a   Registrar WHOIS Server: whois.gandi.net\u000a   Registrar URL: http://www.gandi.net\u000a   Updated Date: 2017-02-28T12:49:01Z\u000a   Creation Date: 2005-04-04T19:49:07Z\u000a   Registry Expiry Date: 2018-04-04T19:49:07Z\u000a   Registrar: Gandi SAS\u000a   Registrar IANA ID: 81\u000a   Registrar Abuse Contact Email: abuse@support.gandi.net\u000a   Registrar Abuse Contact Phone: +33.170377661\u000a   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\u000a   Name Server: DNS1.STABLETRANSIT.COM\u000a   Name Server: DNS2.STABLETRANSIT.COM\u000a   DNSSEC: unsigned\u000a   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/\u000a>>> Last update of whois database: 2017-12-23T00:55:21Z <<<\u000a\u000aFor more information on Whois status codes, please visit https://icann.org/epp\u000a\u000aNOTICE: The expiration date displayed in this record is the date the\u000aregistrar's sponsorship of the domain name registration in the registry is\u000acurrently set to expire. This date does not necessarily reflect the expiration\u000adate of the domain name registrant's agreement with the sponsoring\u000aregistrar.  Users may consult the sponsoring registrar's Whois database to\u000aview the registrar's reported date of expiration for this registration.\u000a\u000aTERMS OF USE: You are not authorized to access or query our Whois\u000adatabase through the use of electronic processes that are high-volume and\u000aautomated except as reasonably necessary to register domain names or\u000amodify existing registrations; the Data in VeriSign Global Registry\u000aServices' (\"VeriSign\") Whois database is provided by VeriSign for\u000ainformation purposes only, and to assist persons in obtaining information\u000aabout or related to a domain name registration record. VeriSign does not\u000aguarantee its accuracy. By submitting a Whois query, you agree to abide\u000aby the following terms of use: You agree that you may use this Data only\u000afor lawful purposes and that under no circumstances will you use this Data\u000ato: (1) allow, enable, or otherwise support the transmission of mass\u000aunsolicited, commercial advertising or solicitations via e-mail, telephone,\u000aor facsimile; or (2) enable high volume, automated, electronic processes\u000athat apply to VeriSign (or its computer systems). The compilation,\u000arepackaging, dissemination or other use of this Data is expressly\u000aprohibited without the prior written consent of VeriSign. You agree not to\u000ause electronic processes that are automated and high-volume to access or\u000aquery the Whois database except as reasonably necessary to register\u000adomain names or modify existing registrations. VeriSign reserves the right\u000ato restrict your access to the Whois database in its sole discretion to ensure\u000aoperational stability.  VeriSign may restrict or terminate your access to the\u000aWhois database for failure to abide by these terms of use. VeriSign\u000areserves the right to modify these terms at any time.\u000a\u000aThe Registry database contains ONLY .COM, .NET, .EDU domains and\u000aRegistrars.",
+    "parseCode": 251,
+    "header": "",
+    "strippedText": "Domain Name: DJANGOPROJECT.COM\u000aRegistry Domain ID: 149399693_DOMAIN_COM-VRSN\u000aRegistrar WHOIS Server: whois.gandi.net\u000aRegistrar URL: http://www.gandi.net\u000aUpdated Date: 2017-02-28T12:49:01Z\u000aCreation Date: 2005-04-04T19:49:07Z\u000aRegistry Expiry Date: 2018-04-04T19:49:07Z\u000aRegistrar: Gandi SAS\u000aRegistrar IANA ID: 81\u000aRegistrar Abuse Contact Email: abuse@support.gandi.net\u000aRegistrar Abuse Contact Phone: +33.170377661\u000aDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\u000aName Server: DNS1.STABLETRANSIT.COM\u000aName Server: DNS2.STABLETRANSIT.COM\u000aDNSSEC: unsigned\u000aURL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/\u000a>>> Last update of whois database: 2017-12-23T00:55:21Z <<<\u000aFor more information on Whois status codes, please visit https://icann.org/epp\u000aNOTICE: The expiration date displayed in this record is the date the\u000aregistrar's sponsorship of the domain name registration in the registry is\u000acurrently set to expire. This date does not necessarily reflect the expiration\u000adate of the domain name registrant's agreement with the sponsoring\u000aregistrar.  Users may consult the sponsoring registrar's Whois database to\u000aview the registrar's reported date of expiration for this registration.\u000aTERMS OF USE: You are not authorized to access or query our Whois\u000adatabase through the use of electronic processes that are high-volume and\u000aautomated except as reasonably necessary to register domain names or\u000amodify existing registrations; the Data in VeriSign Global Registry\u000aServices' (\"VeriSign\") Whois database is provided by VeriSign for\u000ainformation purposes only, and to assist persons in obtaining information\u000aabout or related to a domain name registration record. VeriSign does not\u000aguarantee its accuracy. By submitting a Whois query, you agree to abide\u000aby the following terms of use: You agree that you may use this Data only\u000afor lawful purposes and that under no circumstances will you use this Data\u000ato: (1) allow, enable, or otherwise support the transmission of mass\u000aunsolicited, commercial advertising or solicitations via e-mail, telephone,\u000aor facsimile; or (2) enable high volume, automated, electronic processes\u000athat apply to VeriSign (or its computer systems). The compilation,\u000arepackaging, dissemination or other use of this Data is expressly\u000aprohibited without the prior written consent of VeriSign. You agree not to\u000ause electronic processes that are automated and high-volume to access or\u000aquery the Whois database except as reasonably necessary to register\u000adomain names or modify existing registrations. VeriSign reserves the right\u000ato restrict your access to the Whois database in its sole discretion to ensure\u000aoperational stability.  VeriSign may restrict or terminate your access to the\u000aWhois database for failure to abide by these terms of use. VeriSign\u000areserves the right to modify these terms at any time.\u000aThe Registry database contains ONLY .COM, .NET, .EDU domains and\u000aRegistrars.\u000a",
+    "footer": "\u000a",
+    "audit": {
+      "createdDate": "2017-12-23 00:55:36.000 UTC",
+      "updatedDate": "2017-12-23 00:55:36.000 UTC"
+    },
+    "customField1Name": "RegistrarContactEmail",
+    "customField1Value": "abuse@support.gandi.net",
+    "registrarName": "Gandi SAS",
+    "registrarIANAID": "81",
+    "createdDateNormalized": "2005-04-04 19:49:07 UTC",
+    "updatedDateNormalized": "2017-02-28 12:49:01 UTC",
+    "expiresDateNormalized": "2018-04-04 19:49:07 UTC",
+    "customField2Name": "RegistrarContactPhone",
+    "customField3Name": "RegistrarURL",
+    "customField2Value": "+33.170377661",
+    "customField3Value": "http://www.gandi.net",
+    "whoisServer": "whois.gandi.net"
+  },
+  "domainAvailability": "UNAVAILABLE",
+  "contactEmail": "b51eb9e400906bdbaf75562b991ebe15-5326191@contact.gandi.net",
+  "domainNameExt": ".com",
+  "estimatedDomainAge": 4646
+}}

@@ -1,0 +1,85 @@
+{% extends 'phis_inspec/base.html' %}
+{% load staticfiles %}
+
+{% block body1 %}
+    <p class="mb-0 lead text-justify">Please to make sure that the URL is active(e.g. HTTP response code is in
+        range(200, 300), we don't handle HTTP range(400,500) errors codes.</p>
+    <br>
+
+    <div class="container form-group row-fluid">
+        <form method="POST" novalidate name="form1" onsubmit="return(required());">
+
+            <!--<table class="table">-->
+            {% csrf_token %}
+            {{ form }}
+            <!--</table>-->
+            <p id="demo" style="color: #20c997"></p>
+            <p id="erreur" style="color: #9d261d"><em></em></p>
+            <input id="button1" type="submit" value="Submit" class="btn btn-primary">
+            <!--<button id="button1" type="submit">Go.</button>-->
+        </form>
+    </div>
+
+
+    <!--
+    <form method="POST" novalidate>
+        {% csrf_token %}
+
+        {% if form.non_field_errors %}
+            <div class="row">
+                {% for error in form.non_field_errors %}
+                    <div class="alert alert-danger">{{ error }}</div>
+                {% endfor %}
+            </div>
+        {% endif %}
+
+        {% for field in form %}
+            <div class="row">
+                <div class="col-md-2">
+                    {{ field.label_tag }}
+                    {% if field.help_text %}
+                        <sup>{{ field.help_text }}</sup>
+                    {% endif %}
+                    {% for error in field.errors %}
+                        <div class="row">
+                            <div class="alert alert-danger">{{ error }}</div>
+                        </div>
+                    {% endfor %}
+                </div>
+                <div class="col-md-10 pull-left">
+                    {{ field }}
+                </div>
+            </div>
+        {% endfor %}
+        <input type="submit" value="Submit URL" class="btn btn-primary">
+    </form>
+    -->
+    {% if error %}
+        <div class="container">
+            <p style="color:red;">{{ error }}</p>
+        </div>
+    {% endif %}
+    {% if url %}
+
+        <div class="container">
+            <p><em>Current URL in Test: {{ url }}</em></p>
+            <p><em>{{ results.is_blacklisted }}, the final result is {{ results.final_result }}</em></p>
+        </div>
+    {% endif %}
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <div class="container">
+        <blockquote class="blockquote">
+            <p class="mb-0 lead text-justify">Kindly to report any bug to <a href="{% url 'phish_inspec:email' %}">contact
+                us page</a>, to help us to improve this website.</p>
+        </blockquote>
+    </div>
+
+{% endblock %}

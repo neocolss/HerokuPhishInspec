@@ -1,0 +1,65 @@
+{"WhoisRecord": {
+  "domainName": "google.sn",
+  "nameServers": {
+    "rawText": "ns3.google.com\u000ans2.google.com\u000ans4.google.com\u000ans1.google.com\u000a",
+    "hostNames": [
+      "ns3.google.com",
+      "ns2.google.com",
+      "ns4.google.com",
+      "ns1.google.com"
+    ],
+    "ips": [
+    ]
+  },
+  "parseCode": 128,
+  "audit": {
+    "createdDate": "2017-12-24 06:47:16.000 UTC",
+    "updatedDate": "2017-12-24 06:47:16.000 UTC"
+  },
+  "registryData": {
+    "createdDate": "2017-04-25T13:31:55Z",
+    "updatedDate": "2017-04-25T13:31:55Z",
+    "registrant": {
+      "name": "IPv4 address block not managed by the RIPE NCC",
+      "organization": "NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK",
+      "country": "EU # Country is really world wide",
+      "rawText": "netname:        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK\u000adescr:          IPv4 address block not managed by the RIPE NCC\u000aremarks:        ------------------------------------------------------\u000aremarks:\u000aremarks:        You can find the whois server to query, or the\u000aremarks:        IANA registry to query on this web page:\u000aremarks:        http://www.iana.org/assignments/ipv4-address-space\u000aremarks:\u000aremarks:        You can access databases of other RIRs at:\u000aremarks:\u000aremarks:        AFRINIC (Africa)\u000aremarks:        http://www.afrinic.net/ whois.afrinic.net\u000aremarks:\u000aremarks:        APNIC (Asia Pacific)\u000aremarks:        http://www.apnic.net/ whois.apnic.net\u000aremarks:\u000aremarks:        ARIN (Northern America)\u000aremarks:        http://www.arin.net/  whois.arin.net\u000aremarks:\u000aremarks:        LACNIC (Latin America and the Carribean)\u000aremarks:        http://www.lacnic.net/ whois.lacnic.net\u000aremarks:\u000aremarks:        IANA IPV4 Recovered Address Space\u000aremarks:        http://www.iana.org/assignments/ipv4-recovered-address-space/ipv4-recovered-address-space.xhtml\u000aremarks:\u000aremarks:        ------------------------------------------------------\u000acountry:        EU # Country is really world wide\u000a"
+    },
+    "administrativeContact": {
+      "organization": "Internet Assigned Numbers Authority",
+      "street1": "see http://www.iana.org.",
+      "city": "see http://www.iana.org.",
+      "country": "EU # Country is really world wide",
+      "email": "bitbucket@ripe.net",
+      "rawText": "role:           Internet Assigned Numbers Authority\u000aaddress:        see http://www.iana.org.\u000ae-mail:         bitbucket@ripe.net\u000aadmin-c:        IANA1-RIPE\u000atech-c:         IANA1-RIPE\u000anic-hdl:        IANA1-RIPE\u000aremarks:        For more information on IANA services\u000aremarks:        go to IANA web site at http://www.iana.org.\u000amnt-by:         RIPE-NCC-MNT\u000acreated:        1970-01-01T00:00:00Z\u000alast-modified:  2001-09-22T09:31:27Z\u000asource:         RIPE\u000arole:           Internet Assigned Numbers Authority\u000aaddress:        see http://www.iana.org.\u000ae-mail:         bitbucket@ripe.net\u000aadmin-c:        IANA1-RIPE\u000atech-c:         IANA1-RIPE\u000anic-hdl:        IANA1-RIPE\u000aremarks:        For more information on IANA services\u000aremarks:        go to IANA web site at http://www.iana.org.\u000amnt-by:         RIPE-NCC-MNT\u000acreated:        1970-01-01T00:00:00Z\u000alast-modified:  2001-09-22T09:31:27Z\u000asource:         RIPE"
+    },
+    "technicalContact": {
+      "organization": "Internet Assigned Numbers Authority",
+      "street1": "see http://www.iana.org.",
+      "city": "see http://www.iana.org.",
+      "country": "EU # Country is really world wide",
+      "email": "bitbucket@ripe.net",
+      "rawText": "role:           Internet Assigned Numbers Authority\u000aaddress:        see http://www.iana.org.\u000ae-mail:         bitbucket@ripe.net\u000aadmin-c:        IANA1-RIPE\u000atech-c:         IANA1-RIPE\u000anic-hdl:        IANA1-RIPE\u000aremarks:        For more information on IANA services\u000aremarks:        go to IANA web site at http://www.iana.org.\u000amnt-by:         RIPE-NCC-MNT\u000acreated:        1970-01-01T00:00:00Z\u000alast-modified:  2001-09-22T09:31:27Z\u000asource:         RIPE\u000arole:           Internet Assigned Numbers Authority\u000aaddress:        see http://www.iana.org.\u000ae-mail:         bitbucket@ripe.net\u000aadmin-c:        IANA1-RIPE\u000atech-c:         IANA1-RIPE\u000anic-hdl:        IANA1-RIPE\u000aremarks:        For more information on IANA services\u000aremarks:        go to IANA web site at http://www.iana.org.\u000amnt-by:         RIPE-NCC-MNT\u000acreated:        1970-01-01T00:00:00Z\u000alast-modified:  2001-09-22T09:31:27Z\u000asource:         RIPE"
+    },
+    "domainName": "google.sn, ip: 172.217.5.195",
+    "status": "ALLOCATED UNSPECIFIED",
+    "rawText": "% This is the RIPE Database query service.\u000a% The objects are in RPSL format.\u000a%\u000a% The RIPE Database is subject to Terms and Conditions.\u000a% See http://www.ripe.net/db/support/db-terms-conditions.pdf\u000a\u000a% Information related to '172.81.0.0 - 172.240.255.255'\u000a\u000a% No abuse contact registered for 172.81.0.0 - 172.240.255.255\u000a\u000ainetnum:        172.81.0.0 - 172.240.255.255\u000anetname:        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK\u000adescr:          IPv4 address block not managed by the RIPE NCC\u000aremarks:        ------------------------------------------------------\u000aremarks:\u000aremarks:        You can find the whois server to query, or the\u000aremarks:        IANA registry to query on this web page:\u000aremarks:        http://www.iana.org/assignments/ipv4-address-space\u000aremarks:\u000aremarks:        You can access databases of other RIRs at:\u000aremarks:\u000aremarks:        AFRINIC (Africa)\u000aremarks:        http://www.afrinic.net/ whois.afrinic.net\u000aremarks:\u000aremarks:        APNIC (Asia Pacific)\u000aremarks:        http://www.apnic.net/ whois.apnic.net\u000aremarks:\u000aremarks:        ARIN (Northern America)\u000aremarks:        http://www.arin.net/  whois.arin.net\u000aremarks:\u000aremarks:        LACNIC (Latin America and the Carribean)\u000aremarks:        http://www.lacnic.net/ whois.lacnic.net\u000aremarks:\u000aremarks:        IANA IPV4 Recovered Address Space\u000aremarks:        http://www.iana.org/assignments/ipv4-recovered-address-space/ipv4-recovered-address-space.xhtml\u000aremarks:\u000aremarks:        ------------------------------------------------------\u000acountry:        EU # Country is really world wide\u000aadmin-c:        IANA1-RIPE\u000atech-c:         IANA1-RIPE\u000astatus:         ALLOCATED UNSPECIFIED\u000amnt-by:         RIPE-NCC-HM-MNT\u000amnt-lower:      RIPE-NCC-HM-MNT\u000amnt-routes:     RIPE-NCC-RPSL-MNT\u000acreated:        2017-04-25T13:31:55Z\u000alast-modified:  2017-04-25T13:31:55Z\u000asource:         RIPE\u000a\u000arole:           Internet Assigned Numbers Authority\u000aaddress:        see http://www.iana.org.\u000ae-mail:         bitbucket@ripe.net\u000aadmin-c:        IANA1-RIPE\u000atech-c:         IANA1-RIPE\u000anic-hdl:        IANA1-RIPE\u000aremarks:        For more information on IANA services\u000aremarks:        go to IANA web site at http://www.iana.org.\u000amnt-by:         RIPE-NCC-MNT\u000acreated:        1970-01-01T00:00:00Z\u000alast-modified:  2001-09-22T09:31:27Z\u000asource:         RIPE\u000a\u000a% This query was served by the RIPE Database Query Service version 1.90 (BLAARKOP)",
+    "parseCode": 3377,
+    "header": "% This is the RIPE Database query service.\u000a% The objects are in RPSL format.\u000a%\u000a% The RIPE Database is subject to Terms and Conditions.\u000a% See http://www.ripe.net/db/support/db-terms-conditions.pdf\u000a% This is the RIPE Database query service.\u000a% The objects are in RPSL format.\u000a%\u000a% The RIPE Database is subject to Terms and Conditions.\u000a% See http://www.ripe.net/db/support/db-terms-conditions.pdf",
+    "strippedText": "\u000a% Information related to '172.81.0.0 - 172.240.255.255'\u000a\u000a% No abuse contact registered for 172.81.0.0 - 172.240.255.255\u000a\u000ainetnum:        172.81.0.0 - 172.240.255.255\u000anetname:        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK\u000adescr:          IPv4 address block not managed by the RIPE NCC\u000aremarks:        ------------------------------------------------------\u000aremarks:\u000aremarks:        You can find the whois server to query, or the\u000aremarks:        IANA registry to query on this web page:\u000aremarks:        http://www.iana.org/assignments/ipv4-address-space\u000aremarks:\u000aremarks:        You can access databases of other RIRs at:\u000aremarks:\u000aremarks:        AFRINIC (Africa)\u000aremarks:        http://www.afrinic.net/ whois.afrinic.net\u000aremarks:\u000aremarks:        APNIC (Asia Pacific)\u000aremarks:        http://www.apnic.net/ whois.apnic.net\u000aremarks:\u000aremarks:        ARIN (Northern America)\u000aremarks:        http://www.arin.net/  whois.arin.net\u000aremarks:\u000aremarks:        LACNIC (Latin America and the Carribean)\u000aremarks:        http://www.lacnic.net/ whois.lacnic.net\u000aremarks:\u000aremarks:        IANA IPV4 Recovered Address Space\u000aremarks:        http://www.iana.org/assignments/ipv4-recovered-address-space/ipv4-recovered-address-space.xhtml\u000aremarks:\u000aremarks:        ------------------------------------------------------\u000acountry:        EU # Country is really world wide\u000aadmin-c:        IANA1-RIPE\u000atech-c:         IANA1-RIPE\u000astatus:         ALLOCATED UNSPECIFIED\u000amnt-by:         RIPE-NCC-HM-MNT\u000amnt-lower:      RIPE-NCC-HM-MNT\u000amnt-routes:     RIPE-NCC-RPSL-MNT\u000acreated:        2017-04-25T13:31:55Z\u000alast-modified:  2017-04-25T13:31:55Z\u000asource:         RIPE\u000a\u000arole:           Internet Assigned Numbers Authority\u000aaddress:        see http://www.iana.org.\u000ae-mail:         bitbucket@ripe.net\u000aadmin-c:        IANA1-RIPE\u000atech-c:         IANA1-RIPE\u000anic-hdl:        IANA1-RIPE\u000aremarks:        For more information on IANA services\u000aremarks:        go to IANA web site at http://www.iana.org.\u000amnt-by:         RIPE-NCC-MNT\u000acreated:        1970-01-01T00:00:00Z\u000alast-modified:  2001-09-22T09:31:27Z\u000asource:         RIPE\u000a\u000a% This query was served by the RIPE Database Query Service version 1.90 (BLAARKOP)",
+    "audit": {
+      "createdDate": "2017-12-24 06:47:17.000 UTC",
+      "updatedDate": "2017-12-24 06:47:17.000 UTC"
+    },
+    "customField1Name": "netRange",
+    "customField1Value": "172.81.0.0 - 172.240.255.255",
+    "createdDateNormalized": "2017-04-25 00:00:00 UTC",
+    "updatedDateNormalized": "2017-04-25 00:00:00 UTC",
+    "customField2Name": "netName",
+    "customField2Value": "NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK"
+  },
+  "domainAvailability": "UNAVAILABLE",
+  "contactEmail": "bitbucket@ripe.net",
+  "domainNameExt": ".sn",
+  "estimatedDomainAge": 243
+}}

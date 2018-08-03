@@ -1,0 +1,23 @@
+{% extends 'phis_inspec/base.html' %}
+{% load staticfiles %}
+
+{% block body1 %}
+
+        <div class="container" >
+            <img src="{% static 'images/phish-inspec.jpeg' %}" alt="PHISH-INSCPEC" class="img-fluid rounded mx-auto d-block" >
+        </div>
+
+        <div class="container" >
+            <p class="text-justify text-center">Phish-Inspect is a free service that <em>analyzes Phishing URLs!</em></p>
+        </div>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <div class="container text-justify text-center">
+            <p >To test the framework <a class="nav-link" href="{% url 'phish_inspec:batch' %}"><em>click here</em></a></p>
+        </div>
+
+
+{% endblock %}

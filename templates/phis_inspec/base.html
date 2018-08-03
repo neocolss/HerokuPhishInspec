@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+    <title>Phish-Inspect - Free Online URL Phishing Scanner</title>
+    <link rel="shortcut icon" href="{% static 'images/phish-inspec_ico.ico' %}">
+    <link rel="icon" href="{% static 'images/phish-inspec_ico.ico' %}" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/styles.css' %}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+          integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"
+            integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"
+            crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
+            integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
+            crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+        function required() {
+
+            input_url = document.form1.url.value;
+            document.getElementById("demo").innerHTML = input_url;
+            var pattern = /(ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/;
+            if( input_url  == "" ||
+                input_url == " " ||
+                !pattern.test(input_url)){
+                document.getElementById("erreur").innerHTML = 'please to fill the form with a valid active URL.'
+                //alert('Please provide a valid URL.');
+                document.form1.url.focus();
+                return false;
+            }
+            return( true );
+        }
+    </script>
+
+</head>
+<body>
+
+{% include 'layouts/_nav.html' %}
+<br>
+<div class="container-fluid">
+    {% block body1 %}
+    {% endblock %}
+</div>
+
+<br>
+<br>
+<br>
+
+
+{% include 'layouts/_footer.html' %}
+
+</body>
+</html>

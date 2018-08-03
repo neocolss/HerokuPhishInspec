@@ -1,0 +1,66 @@
+{% extends 'phis_inspec/base.html' %}
+{% load staticfiles %}
+
+
+{% block body1 %}
+    <br>
+    <div class="container">
+        <blockquote class="blockquote">
+
+            <p class="mb-0 lead text-justify">
+                Internet use is growing every day, accessing a website via its url (Uniform Resource Locator)
+                address is a daily task, but not all the websites are legitimate
+                (benign) to be accessed without any fear from malicious aims - not matter from
+                where those websites are being accessed (Web Browsers, e-mails body, chat
+                application, SMS, VoIP) neither the nature of the operating system - some
+                websites contain unwanted content like wining notifications, advertising or other
+                unwanted content that is what we call SPAM websites. Other websites try to steal
+                any user’s (normal users, communities, societies, laboratories, etc.) personal
+                information like name, date of birth, e-mail, credentials or login and passwords
+                for e-banking services or any other web services, those kind of websites are called
+                PHISHING websites, because they use malignant methods like real fishing (lure,
+                hook, and catch) to steal those informations for nefarious use (Selling in black
+                market, blackmailing, harming a reputation, accessing a restricted place on the net
+                with the name of another one, and we can imagine so many criminalistics uses
+                …). Another kind of websites try to inject malware (malicious software) into
+                those malicious websites, like telling people that they should install a plugin or
+                software on their personal machine in order to be able to read a particular
+                extension of videos, however it’s a malware or Trojan inside this malware to steal
+                user information or sometimes to have a control on that machine, while some
+                other websites, once the use click on the url to access it, the website tries to install
+                malware (including computer viruses, worms, Trojan horses, ransomware,
+                spyware, adware, scareware) into user browser or machine by itself or making
+                some redirecting to another malicious website, that is called, Drive-ByDownloads attack.
+                Methods that criminals use are in permanent development so techniques of
+                anti-cybercrimes.
+                This Framework is a thesis project that aims to study and create solutions to prevent or detect
+                malicious
+                url, specially Phishing.
+            </p>
+
+        </blockquote>
+    </div>
+    <br>
+    <br>
+    <div class="container" >
+            <p class="mb-0 lead text-justify">Here are some examples of fake and real web pages, difference in the URL</p>
+            <ul>
+                <li>
+                    * Real PayPal Login Page:
+                    <img src="{% static 'images/realPayPal.png' %}" alt="Real Paypal Login Page" class="img-fluid rounded mx-auto d-block" >
+                    <br>
+                    * Fake PayPal Login Page:
+                    <img src="{% static 'images/fakePayPal.png' %}" alt="Fake Paypal Login Page" class="img-fluid rounded mx-auto d-block" >
+                    <br>
+                </li>
+                <li>
+                    * Real Mercadobitcoin Page:
+                    <img src="{% static 'images/real2.png' %}" alt="Real Paypal Login Page" class="img-fluid rounded mx-auto d-block" >
+                    <br>
+                    * Fake Mercadobitcoin Page:
+                    <img src="{% static 'images/fake2.png' %}" alt="Fake Paypal Login Page" class="img-fluid rounded mx-auto d-block" >
+                </li>
+
+            </ul>
+        </div>
+{% endblock %}

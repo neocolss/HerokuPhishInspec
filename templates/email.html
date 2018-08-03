@@ -1,0 +1,16 @@
+{% extends 'phis_inspec/base.html' %}
+{% load staticfiles %}
+
+{% block body1 %}
+    <h1>Contact Us</h1>
+    <form method="post">
+        <div class="form-group">
+            {% csrf_token %}
+            <table class="table table-hover">
+                {{ form }}
+            </table>
+            <button class="btn btn-secondary btn-lg" type="submit">Send</button>
+        </div>
+    </form>
+
+{% endblock %}

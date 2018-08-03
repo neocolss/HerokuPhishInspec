@@ -1,0 +1,40 @@
+{% load staticfiles %}
+
+<div class="container-fluid">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    
+    <a class="navbar-brand" href="{% url 'home' %}">
+        <img src="{% static 'images/phish-inspec.jpeg' %}" width="60" height="40" alt="PHISH-INSPEC">
+    </a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText"
+            aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarText">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="{% url 'about_phishing' %}">Phishing?</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="{% url 'phish_inspec:batch' %}">Analyze an URL</a>
+            </li>
+        </ul>
+    <!--</div>-->
+        <ul class="nav navbar-right navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="http://fstt.ac.ma/Portail/index.php">Visit our University</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'documentation' %}">Documentation</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'about' %}">About</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'email' %}">Contact Us.</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+</div>
